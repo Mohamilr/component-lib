@@ -1,0 +1,1 @@
+### Be sure the component library uses the same version of React and React dom because it's being added as a peer dependency. It's going to show a warning during installation if it's not.
